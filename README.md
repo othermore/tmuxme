@@ -16,7 +16,7 @@
 ## Installation
 
 1. **Download the script**
-   Save the script to your home directory (or anywhere you prefer). Choose the English (`tmuxme_en.sh`) or Spanish (`tmuxme_es.sh`) version and rename it to `tmuxme.sh`.
+   Save the script to your home directory (or anywhere you prefer). Choose the English (`tmuxme.sh`) or Spanish (`tmuxme.es.sh`) version and rename it to `tmuxme.sh`.
 
    ```bash
    # Example: Download and rename
