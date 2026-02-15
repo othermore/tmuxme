@@ -20,7 +20,7 @@
 
    ```bash
    # Example: Download and rename
-   curl -o ~/.tmuxme.sh [https://raw.githubusercontent.com/yourusername/tmuxme/main/tmuxme_en.sh](https://raw.githubusercontent.com/yourusername/tmuxme/main/tmuxme_en.sh)
+   curl -o ~/.tmuxme.sh [https://raw.githubusercontent.com/yourusername/tmuxme/main/tmuxme_en.sh](https://raw.githubusercontent.com/yourusername/tmuxme/main/tmuxme.es.sh)
    
    # Make it executable
    chmod +x ~/.tmuxme.sh
